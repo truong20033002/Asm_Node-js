@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "duy anh_updete_put",
+      "id": 3
+    },
+    {
+      "name": "Minh Dung",
+      "username": "minhdung123",
+      "email": "minhdung@gmail.com",
+      "phone": "9956976967",
+      "id": 4
+    },
+    {
+      "name": "Thuy Huong",
+      "username": "thuyhuong4567",
+      "email": "thuyhuong2547@gmail.com",
+      "phone": "444444444444",
+      "id": 5
+    },
+    {
+      "name": "phuong thuy22",
+      "username": "phuongthuy123",
+      "email": "phuongthuy123@gmail.com",
+      "phone": "0121312412",
+      "id": 6
+    }
+  ]
+}
